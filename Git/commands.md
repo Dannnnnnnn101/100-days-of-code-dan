@@ -2,19 +2,19 @@ Start learning the commands for the gitbash
 
 #Navigating my Computer using Gitbash
 
-cd - change directory
-mkdir- make directory 
-rmkdir - remove directory 
-pwd - print working directory 
-ls - list files 
-ls -la - list of all files in present current folder
-cd .. - moves up one level
-clear -cleans up the terminal
-cat (file) - it displays the entire contents of a file directory 
-cp <source> <destination> - copies a file or filder
-mv <source> <destination> - moves a file
-rm <file> remove or delete a file 
-rm -r <folder> - to delete an entire folder 
+*cd - change directory
+*mkdir- make directory 
+*rmkdir - remove directory 
+*pwd - print working directory 
+*ls - list files 
+*ls -la - list of all files in present current folder
+*cd .. - moves up one level
+*clear -cleans up the terminal
+*cat (file) - it displays the entire contents of a file directory 
+*cp <source> <destination> - copies a file or filder
+*mv <source> <destination> - moves a file
+*rm <file> remove or delete a file 
+*rm -r <folder> - to delete an entire folder 
 
 #First setup
 
