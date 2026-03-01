@@ -2,8 +2,8 @@ Start learning the commands for the gitbash
 
 #Navigating my Computer using Gitbash
 
-*cd - change directory
-*mkdir- make directory 
+* cd - change directory
+* mkdir- make directory 
 *rmkdir - remove directory 
 *pwd - print working directory 
 *ls - list files 
