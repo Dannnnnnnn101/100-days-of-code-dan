@@ -15,6 +15,11 @@
 
 <img width="1910" height="890" alt="rebase" src="https://github.com/user-attachments/assets/8909db95-02de-4aaf-b385-73b080b40242" />
 
+# Completing the Introduction Sequence
+
+<img width="1252" height="246" alt="Introduction Sequence" src="https://github.com/user-attachments/assets/c2ccd10f-26ba-4020-b4ac-e43f57700a00" />
+
+
 
 
 
