@@ -7,6 +7,11 @@
 
 <img width="1906" height="891" alt="branching" src="https://github.com/user-attachments/assets/be4b1ca1-9c37-4a99-92ff-0ad102190bf8" />
 
+* Day 3 (March 3, 2026) git merging
+
+<img width="1911" height="897" alt="merging" src="https://github.com/user-attachments/assets/fa7f843d-067b-4f80-847a-b9c86d32bca9" />
+
+
 
 
 
