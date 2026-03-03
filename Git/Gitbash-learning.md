@@ -11,6 +11,11 @@
 
 <img width="1911" height="897" alt="merging" src="https://github.com/user-attachments/assets/fa7f843d-067b-4f80-847a-b9c86d32bca9" />
 
+* Day 4 (March 3, 2026) git rebase
+
+<img width="1910" height="890" alt="rebase" src="https://github.com/user-attachments/assets/8909db95-02de-4aaf-b385-73b080b40242" />
+
+
 
 
 
