@@ -1,4 +1,4 @@
-# Using Learn Git Branching 
+# Using Learn Git Branching Part 1
 
 * Day 1 (February 28, 2026): git commit
 <img width="1909" height="899" alt="commit" src="https://github.com/user-attachments/assets/b12105e2-7276-4277-bcde-5417e6ed97ae" />
